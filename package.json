@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Tema 7 objetos",
+  "main": "objetos.js",
+  "scripts": {
+    "start": "node objetos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "objetos",
+    "javascript"
+  ],
+  "author": "Juan Carlos Fernández",
+  "license": "ISC"
+}
